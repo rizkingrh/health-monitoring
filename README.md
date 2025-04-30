@@ -19,16 +19,16 @@ Traditional health monitoring often requires expensive medical equipment or freq
 ## 🖼️ Preview
 
 ### System Results
-![Application Results](assets/hasil.jpg)
+<img src="assets/hasil.jpg" width="600"/>
 
 ### Hardware Wiring Diagram
-![Circuit Diagram](assets/wiring_pulseOximeter.png)
+<img src="assets/wiring_pulseOximeter.png" width="600"/>
 
 ### Complete Prototype
-![Prototype](assets/prototype.jpg)
+<img src="assets/prototype.jpg" width="600"/>
 
 ### Assembly Process
-![Assembly](assets/perakitan.jpg)
+<img src="assets/perakitan.jpg" width="600"/>
 
 ## 🛠️ Technologies
 
